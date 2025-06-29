@@ -5,29 +5,15 @@ img {
     width: 200px;
 }
 
-footer {
-    font-size: 14px;
-    color: gray;
-}
-
 body {
     text-align: center;
     padding: 16px;
 }
 
 h1 {
-    margin-bottom: 16px;
+    color: blue;
 }
 
-footer {
-    margin-top: 20px;
-    font-size: 14px;
-    color: gray;
-}
-
-img {
-    width: 200px;
-    border: 2px solid black;
-    border-radius: 20%;
-    margin-bottom: 16px;
+h4 {
+    color: green;
 }
